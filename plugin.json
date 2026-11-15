@@ -1,0 +1,23 @@
+{
+  "slug": "Kleener",
+  "name": "Kleener",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Haer",
+  "author": "Haer",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/hardyfinn/Kleener",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Kleener",
+      "name": "Kleener",
+      "description": "16-bit loop sequencer inspired by the Klee: bit switches loaded into a turning loop, eight pitch-weight sliders summed from the bits that are on (two pitch outputs), three bus gates, mutation and a scale quantiser",
+      "tags": ["Sequencer", "Random", "Quantizer"]
+    }
+  ]
+}
