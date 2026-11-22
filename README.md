@@ -64,4 +64,4 @@ GitHub Actions builds the Mac (Apple Silicon) plugin on every push. Branch build
 
 Panel: `python3 res/make_panel.py` (needs `pip install fonttools`). Mock-up picture: `python3 tools/preview.py panel-preview.png`.
 
-Licence GPL-3.0-or-later. Panel font Inter (SIL OFL); maker logo in Climate Crisis (SIL OFL).
+Licence MIT (see `LICENSE.txt`). Panel font Inter (SIL OFL); maker logo in Climate Crisis (SIL OFL).
